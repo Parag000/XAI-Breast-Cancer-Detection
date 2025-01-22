@@ -25,8 +25,8 @@ This project demonstrates the use of Explainable AI techniques in analyzing and 
 ---
 
 ## Key Libraries Used
-- [SHAP](https://github.com/slundberg/shap): For generating Shapley explanations.
-- [Banzhaf](https://pypi.org/project/banzhaf/): For computing Banzhaf power indices.
+- SHAP For generating Shapley explanations.
+- Banzhaf For computing Banzhaf power indices.
 - Remove Explanations Library: For individual feature removal impact analysis.
 - Scikit-learn: For machine learning models.
 - Matplotlib/Seaborn: For visualizations.
