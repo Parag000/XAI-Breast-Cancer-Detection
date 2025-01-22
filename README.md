@@ -34,10 +34,10 @@ This project demonstrates the use of Explainable AI techniques in analyzing and 
 ## Result
 Among feature selection methods, SHAP (Top 10) provided the lowest cross-entropy loss, demonstrating its effectiveness in identifying the most relevant features for prediction.
 <div align="left">
-  <img src="ce.png" alt="Sample Predictions" width="300">
+  <img src="ce.png" alt="Sample Predictions" width="600">
 </div>
 
 Sample of features which indicates the effectiveness of the feature in diagnosis of breast cancer based on the gene type using shapley values
 <div align="left">
-  <img src="shap.png" alt="Sample Predictions" width="300">
+  <img src="shap.png" alt="Sample Predictions" width="1200">
 </div>
