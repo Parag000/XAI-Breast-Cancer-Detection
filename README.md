@@ -31,3 +31,8 @@ This project demonstrates the use of Explainable AI techniques in analyzing and 
 - Scikit-learn: For machine learning models.
 - Matplotlib/Seaborn: For visualizations.
 
+## Result
+### Among feature selection methods, SHAP (Top 10) provided the lowest cross-entropy loss, demonstrating its effectiveness in identifying the most relevant features for prediction.
+<div align="left">
+  <img src="ce.png" alt="Sample Predictions" width="300">
+</div>
