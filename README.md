@@ -4,7 +4,7 @@
 This project demonstrates the use of Explainable AI techniques in analyzing and detecting breast cancer. **By leveraging advanced algorithms, the project aims to make machine learning predictions more transparent and actionable for medical professionals.** 
 
 ### Key Features
-- **Explainability with SHAP, Banzhaf, and Remove Explanations Library:** Utilizes Shapley values, Banzhaf power index, and individual removal methods to explain model predictions.
+- **Explainability with Shap, Banzhaf, and Remove Explanations Library:** Utilizes Shapley values, Banzhaf power index, and individual removal methods to explain model predictions.
 - **Breast Cancer Detection:** Implements predictive models for breast cancer diagnosis using well-established datasets.
 - **Interpretation and Analysis:** Provides detailed visualizations and explanations to help users understand the model's behavior and important features.
 
